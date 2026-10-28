@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 360" width="1240" height="360" font-family="'Noto Sans CJK KR',Arial,sans-serif">
+<defs>
+<marker id="m_slate" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#475569"/></marker>
+<marker id="m_slates" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#475569"/></marker>
+<marker id="m_blue" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#3b82f6"/></marker>
+<marker id="m_blues" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#3b82f6"/></marker>
+<marker id="m_green" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#16a34a"/></marker>
+<marker id="m_greens" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#16a34a"/></marker>
+<marker id="m_red" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#f87171"/></marker>
+<marker id="m_reds" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#f87171"/></marker>
+<marker id="m_amber" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#f59e0b"/></marker>
+<marker id="m_ambers" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#f59e0b"/></marker>
+<marker id="m_violet" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#8b5cf6"/></marker>
+<marker id="m_violets" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#8b5cf6"/></marker>
+<marker id="m_white" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#94a3b8"/></marker>
+<marker id="m_whites" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#94a3b8"/></marker>
+</defs>
+<rect width="1240" height="360" fill="#ffffff"/>
+<rect x="30" y="50" width="250" height="260" rx="8" fill="#ede9fe" stroke="#8b5cf6" stroke-width="2"/>
+<text x="155.0" y="161.1" text-anchor="middle" font-size="26" fill="#6d28d9" font-weight="700">모델 업로드</text>
+<text x="155.0" y="191.1" text-anchor="middle" font-size="18" fill="#475569">기체 모델 (sdf.jinja)</text>
+<text x="155.0" y="219.1" text-anchor="middle" font-size="18" fill="#475569">대시보드 또는 API</text>
+<line x1="285" y1="180" x2="335" y2="180" stroke="#475569" stroke-width="2.5" marker-end="url(#m_slate)"/>
+<rect x="340" y="50" width="250" height="260" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+<text x="465.0" y="161.1" text-anchor="middle" font-size="26" fill="#1d4ed8" font-weight="700">엣지 서버</text>
+<text x="465.0" y="191.1" text-anchor="middle" font-size="18" fill="#475569">type_code 배정</text>
+<text x="465.0" y="219.1" text-anchor="middle" font-size="18" fill="#475569">100~199 전역 고유</text>
+<line x1="595" y1="180" x2="645" y2="180" stroke="#475569" stroke-width="2.5" marker-end="url(#m_slate)"/>
+<rect x="650" y="50" width="250" height="260" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="775.0" y="161.1" text-anchor="middle" font-size="26" fill="#15803d" font-weight="700">에이전트</text>
+<text x="775.0" y="191.1" text-anchor="middle" font-size="18" fill="#475569">모델 내려받기</text>
+<text x="775.0" y="219.1" text-anchor="middle" font-size="18" fill="#475569">Gazebo 기동 시 마운트</text>
+<line x1="905" y1="180" x2="955" y2="180" stroke="#475569" stroke-width="2.5" marker-end="url(#m_slate)"/>
+<rect x="960" y="50" width="250" height="260" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+<text x="1085.0" y="161.1" text-anchor="middle" font-size="26" fill="#b45309" font-weight="700">소환</text>
+<text x="1085.0" y="191.1" text-anchor="middle" font-size="18" fill="#475569">Gazebo 물리 모델</text>
+<text x="1085.0" y="219.1" text-anchor="middle" font-size="18" fill="#475569">다른 호스트는 고스트</text>
+</svg>

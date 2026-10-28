@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 360" width="1240" height="360" font-family="'Noto Sans CJK KR',Arial,sans-serif">
+<defs>
+<marker id="m_slate" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#475569"/></marker>
+<marker id="m_slates" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#475569"/></marker>
+<marker id="m_blue" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#3b82f6"/></marker>
+<marker id="m_blues" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#3b82f6"/></marker>
+<marker id="m_green" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#16a34a"/></marker>
+<marker id="m_greens" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#16a34a"/></marker>
+<marker id="m_red" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#f87171"/></marker>
+<marker id="m_reds" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#f87171"/></marker>
+<marker id="m_amber" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#f59e0b"/></marker>
+<marker id="m_ambers" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#f59e0b"/></marker>
+<marker id="m_violet" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#8b5cf6"/></marker>
+<marker id="m_violets" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#8b5cf6"/></marker>
+<marker id="m_white" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#94a3b8"/></marker>
+<marker id="m_whites" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#94a3b8"/></marker>
+</defs>
+<rect width="1240" height="360" fill="#ffffff"/>
+<rect x="40" y="30" width="1160" height="210" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="64" y="62" text-anchor="start" font-size="20" fill="#0f172a" font-weight="700">Browser</text>
+<rect x="70" y="80" width="340" height="140" rx="8" fill="#ede9fe" stroke="#8b5cf6" stroke-width="2"/>
+<text x="240.0" y="129.7" text-anchor="middle" font-size="22" fill="#6d28d9" font-weight="700">Unreal view</text>
+<text x="240.0" y="159.7" text-anchor="middle" font-size="18" fill="#475569">Pixel Streaming, WebRTC</text>
+<text x="240.0" y="187.7" text-anchor="middle" font-size="18" fill="#475569">real-site camera</text>
+<rect x="70" y="290" width="340" height="54" rx="8" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+<text x="240.0" y="323.3" text-anchor="middle" font-size="18" fill="#0f172a" font-weight="700">Unreal on GPU host</text>
+<line x1="240" y1="285" x2="240" y2="225" stroke="#8b5cf6" stroke-width="2.5" marker-end="url(#m_violet)"/>
+<rect x="450" y="80" width="340" height="140" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+<text x="620.0" y="129.7" text-anchor="middle" font-size="22" fill="#1d4ed8" font-weight="700">Gazebo viewer</text>
+<text x="620.0" y="159.7" text-anchor="middle" font-size="18" fill="#475569">gzweb, 3D in browser</text>
+<text x="620.0" y="187.7" text-anchor="middle" font-size="18" fill="#475569">physics scene, ghosts</text>
+<rect x="450" y="290" width="340" height="54" rx="8" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+<text x="620.0" y="323.3" text-anchor="middle" font-size="18" fill="#0f172a" font-weight="700">gzserver</text>
+<line x1="620" y1="285" x2="620" y2="225" stroke="#3b82f6" stroke-width="2.5" marker-end="url(#m_blue)"/>
+<rect x="830" y="80" width="340" height="140" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="1000.0" y="129.7" text-anchor="middle" font-size="22" fill="#15803d" font-weight="700">WebGCS</text>
+<text x="1000.0" y="159.7" text-anchor="middle" font-size="18" fill="#475569">Lichtblick</text>
+<text x="1000.0" y="187.7" text-anchor="middle" font-size="18" fill="#475569">state, map, commands</text>
+<rect x="830" y="290" width="340" height="54" rx="8" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+<text x="1000.0" y="323.3" text-anchor="middle" font-size="18" fill="#0f172a" font-weight="700">ROS 2 / MAVLink</text>
+<line x1="1000" y1="285" x2="1000" y2="225" stroke="#16a34a" stroke-width="2.5" marker-end="url(#m_green)"/>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 360" width="1240" height="360" font-family="'Noto Sans CJK KR',Arial,sans-serif">
+<defs>
+<marker id="m_slate" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#475569"/></marker>
+<marker id="m_slates" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#475569"/></marker>
+<marker id="m_blue" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#3b82f6"/></marker>
+<marker id="m_blues" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#3b82f6"/></marker>
+<marker id="m_green" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#16a34a"/></marker>
+<marker id="m_greens" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#16a34a"/></marker>
+<marker id="m_red" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#f87171"/></marker>
+<marker id="m_reds" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#f87171"/></marker>
+<marker id="m_amber" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#f59e0b"/></marker>
+<marker id="m_ambers" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#f59e0b"/></marker>
+<marker id="m_violet" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#8b5cf6"/></marker>
+<marker id="m_violets" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#8b5cf6"/></marker>
+<marker id="m_white" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#94a3b8"/></marker>
+<marker id="m_whites" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10,0 L0,4 L10,8 z" fill="#94a3b8"/></marker>
+</defs>
+<rect width="1240" height="360" fill="#ffffff"/>
+<text x="120" y="34" text-anchor="middle" font-size="20" fill="#0f172a" font-weight="700">login</text>
+<text x="380" y="34" text-anchor="middle" font-size="20" fill="#0f172a" font-weight="700">isolated topics</text>
+<text x="690" y="34" text-anchor="middle" font-size="20" fill="#0f172a" font-weight="700">own Gazebo</text>
+<text x="1050" y="34" text-anchor="middle" font-size="20" fill="#0f172a" font-weight="700">ghost sync</text>
+<rect x="40" y="55" width="160" height="76" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+<text x="120.0" y="100.0" text-anchor="middle" font-size="20" fill="#1d4ed8" font-weight="700">User A</text>
+<line x1="205" y1="93" x2="275" y2="93" stroke="#3b82f6" stroke-width="2.5" marker-end="url(#m_blue)"/>
+<rect x="280" y="55" width="200" height="76" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+<text x="380.0" y="100.0" text-anchor="middle" font-size="20" fill="#1d4ed8" font-weight="700">ROS domain 10</text>
+<line x1="485" y1="93" x2="555" y2="93" stroke="#3b82f6" stroke-width="2.5" marker-end="url(#m_blue)"/>
+<rect x="560" y="55" width="260" height="76" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+<text x="690.0" y="100.0" text-anchor="middle" font-size="20" fill="#1d4ed8" font-weight="700">Gazebo A-1, A-2</text>
+<line x1="825" y1="93" x2="895" y2="93" stroke="#3b82f6" stroke-width="2.5" marker-end="url(#m_blue)"/>
+<rect x="900" y="55" width="300" height="76" rx="8" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+<text x="1050.0" y="100.0" text-anchor="middle" font-size="20" fill="#0f172a" font-weight="700">within user A only</text>
+<rect x="40" y="153" width="160" height="76" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="120.0" y="198.0" text-anchor="middle" font-size="20" fill="#15803d" font-weight="700">User B</text>
+<line x1="205" y1="191" x2="275" y2="191" stroke="#16a34a" stroke-width="2.5" marker-end="url(#m_green)"/>
+<rect x="280" y="153" width="200" height="76" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="380.0" y="198.0" text-anchor="middle" font-size="20" fill="#15803d" font-weight="700">ROS domain 11</text>
+<line x1="485" y1="191" x2="555" y2="191" stroke="#16a34a" stroke-width="2.5" marker-end="url(#m_green)"/>
+<rect x="560" y="153" width="260" height="76" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="690.0" y="198.0" text-anchor="middle" font-size="20" fill="#15803d" font-weight="700">Gazebo B-1, B-2</text>
+<line x1="825" y1="191" x2="895" y2="191" stroke="#16a34a" stroke-width="2.5" marker-end="url(#m_green)"/>
+<rect x="900" y="153" width="300" height="76" rx="8" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+<text x="1050.0" y="198.0" text-anchor="middle" font-size="20" fill="#0f172a" font-weight="700">within user B only</text>
+<rect x="40" y="251" width="160" height="76" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+<text x="120.0" y="296.0" text-anchor="middle" font-size="20" fill="#b45309" font-weight="700">User C</text>
+<line x1="205" y1="289" x2="275" y2="289" stroke="#f59e0b" stroke-width="2.5" marker-end="url(#m_amber)"/>
+<rect x="280" y="251" width="200" height="76" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+<text x="380.0" y="296.0" text-anchor="middle" font-size="20" fill="#b45309" font-weight="700">ROS domain 12</text>
+<line x1="485" y1="289" x2="555" y2="289" stroke="#f59e0b" stroke-width="2.5" marker-end="url(#m_amber)"/>
+<rect x="560" y="251" width="260" height="76" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+<text x="690.0" y="296.0" text-anchor="middle" font-size="20" fill="#b45309" font-weight="700">Gazebo C-1, C-2</text>
+<line x1="825" y1="289" x2="895" y2="289" stroke="#f59e0b" stroke-width="2.5" marker-end="url(#m_amber)"/>
+<rect x="900" y="251" width="300" height="76" rx="8" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+<text x="1050.0" y="296.0" text-anchor="middle" font-size="20" fill="#0f172a" font-weight="700">within user C only</text>
+</svg>
